@@ -31,8 +31,8 @@ params:
       highlightColor: "#668B69"
   sidebar:
     home: right
-    list: left
-    single: false
+    list: right
+    single: right
     widgets:
       - recent
       - categories
