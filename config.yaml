@@ -34,7 +34,7 @@ params:
     list: left
     single: false
     widgets:
-      - search
+      - ddg-search
       - recent
       - categories
       - taglist
