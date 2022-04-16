@@ -1,0 +1,50 @@
+---
+baseURL: 
+languageCode: "en-us"
+title: "Knitwise"
+theme: "Mainroad"
+paginate: '10'
+googleAnalytics: ""
+
+author:
+  name: Abby Moreland
+  bio: 
+  avatar: 
+
+params:
+  subtitle: "A blog about knitting"
+  description: "A blog about knitting"
+  copyright: "Abby Moreland"
+  readmore: true
+  authorbox: false
+  toc: true
+  pager: true
+  favicon: static/favicon.ico
+  post_meta: 
+    - date
+    - categories
+  mainSections: 
+    - posts
+
+  style:
+    vars:
+      highlightColor: "#668B69"
+  sidebar:
+    home: right
+    list: left
+    single: false
+    widgets:
+      - search
+      - recent
+      - categories
+      - taglist
+      - social
+  widgets:
+    recent_num: 5
+    categories_counter: false
+    tags_counter: false
+#  widgets:
+#    social:
+#      twitter: 
+#      instagram: more.knits
+#      github: am-land
