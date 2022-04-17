@@ -26,6 +26,9 @@ params:
   mainSections: 
     - posts
 
+  logo:
+    image: img/logo-2.png
+
   style:
     vars:
       highlightColor: "#668B69"
