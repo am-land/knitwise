@@ -50,3 +50,9 @@ params:
 #      twitter: 
 #      instagram: more.knits
 #      github: am-land
+
+
+module:
+  imports:
+    path: github.com/am-land/Mainroad
+    disable: "false"
