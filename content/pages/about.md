@@ -10,6 +10,3 @@ sidebar: false
 toc: false
 
 ---
-I'm a knitter.
-
-## About this site
