@@ -221,8 +221,6 @@ In most cases, the neckline won’t conflict with your dart decreases. However, 
 # Finishing up
 And that’s it! 
 
-It may seem like a lot of steps, but I tried to break it down as much as possible so any skill level can follow along.
-
 If you get stuck, remember: your goal is to add extra width starting from the bottom of your bust to the top of your bust. Once you've added that width, you'll need to decrease it out in an area that won't interfere with other parts of the pattern. Because handknit fabric is so forgiving, you don't need to stress about every single stitch. Just make sure you're generally creating the shape and fabric that you want.
 
 Happy custom knitting!
